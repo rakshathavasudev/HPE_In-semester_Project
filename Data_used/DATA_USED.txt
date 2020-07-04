@@ -1,0 +1,5 @@
+Landsat 8 level 1T products are downloaded from https://earthexplorer.usgs.gov/ with 90% removed cloud coverage.
+
+Since the scenes we used in this project are of 20GB, we are not able to put them here.
+
+Data obtained after converting to time series i.e. indices values are stored in the text files in this directory.
